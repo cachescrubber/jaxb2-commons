@@ -4,7 +4,7 @@
 	<artifactId>jaxb2-fluent-api</artifactId>
 	<packaging>jar</packaging>
 
-	<version>4.0.0-M3-SNAPSHOT</version>
+	<version>4.0.0-VC</version>
 
 	<name>JAXB2 Commons - Fluent API Plugin</name>
 
@@ -46,7 +46,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:cachescrubber/jaxb2-commons.git</connection>
 		<developerConnection>scm:git:git@github.com:cachescrubber/jaxb2-commons.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>jaxb2-fluent-api-4.0.0-VC</tag>
 	</scm>
 
 	<properties>
