@@ -4,7 +4,7 @@
 	<artifactId>jaxb2-commons-lang</artifactId>
 	<packaging>jar</packaging>
 
-	<version>3.0.0-VC</version>
+	<version>3.0.1-VC-SNAPSHOT</version>
 <!--	<version>2.5-SNAPSHOT</version>-->
 
 	<name>JAXB2 Commons - Commons Lang Plugin</name>
@@ -47,7 +47,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:cachescrubber/jaxb2-commons.git</connection>
 		<developerConnection>scm:git:git@github.com:cachescrubber/jaxb2-commons.git</developerConnection>
-		<tag>jaxb2-commons-lang-3.0.0-VC</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<properties>
