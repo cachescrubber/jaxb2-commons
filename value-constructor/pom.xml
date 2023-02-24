@@ -3,7 +3,7 @@
 	<groupId>org.jvnet.jaxb2_commons</groupId>
 	<artifactId>jaxb2-value-constructor</artifactId>
 	<packaging>jar</packaging>
-	<version>4.0.0-VC</version>
+	<version>4.0.1-VC-SNAPSHOT</version>
 
 	<name>JAXB2 Commons - Value Constructor Plugin</name>
 
@@ -45,7 +45,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:cachescrubber/jaxb2-commons.git</connection>
 		<developerConnection>scm:git:git@github.com:cachescrubber/jaxb2-commons.git</developerConnection>
-	  <tag>jaxb2-value-constructor-4.0.0-VC</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<properties>
